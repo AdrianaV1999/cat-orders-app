@@ -1,6 +1,6 @@
 # Cat Shop
 
-The application displays items for cats ordered by the logged-in user and allows order modification, adding new orders, deleting existing ones, and searching through ordered items. A database consisting of three tables (User, Product, Category) has been imported, where Product and Category are connected via ProductID. The design has been implemented using CSS and Bootstrap.
+The application displays items for cats ordered by the logged-in user and allows order modification, adding new orders, deleting existing ones and searching through ordered items. The design has been implemented using CSS and Bootstrap.
 
 ## Description:
 The application includes implementations of AJAX for dynamic and interactive functionality.
