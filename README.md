@@ -9,7 +9,7 @@ It also provides additional features such as advanced search and sorting options
 
 Key functionalities include:
 
-**PHP** functions such as require, include, and date have been used,
+**PHP** functions such as require, include and date have been used,
 **Superglobal variables** have been implemented where necessary,
 **Object-Oriented Programming (OOP)** concepts in PHP are applied, ensuring clean and maintainable code.
 
