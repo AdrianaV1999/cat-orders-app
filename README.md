@@ -1,4 +1,4 @@
-# Cat Shop
+# Cat Orders App
 
 The application displays items for cats ordered by the logged-in user and allows order modification, adding new orders, deleting existing ones and searching through ordered items. The design has been implemented using CSS and Bootstrap.
 
